@@ -9,7 +9,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ABC Toys</title>
-  <script src="http://maps.google.com/maps/api/js?key=AIzaSyCe600EZn281Jab1zrPzlq5AsbzljO_CeI&v=3.9&sensor=true"> </script>
+  <script src="http://maps.google.com/maps/api/js?key=SECRET&v=3.9&sensor=true"> </script>
   <link rel="stylesheet" href="mobile.css" />
   <link rel="stylesheet" href="styles.css">
   <style type="text/css">
