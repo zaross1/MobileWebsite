@@ -1,0 +1,92 @@
+
+#myButton {
+  
+  
+  min-width: 80px; 
+}
+
+
+#results {
+
+  	overflow: scroll;
+}
+
+iframe {
+  overflow: scroll;
+}
+
+
+#img1 {
+  position: fixed;
+
+  margin-left: 30%;
+}
+
+#img2 {
+  position: fixed;
+
+  margin-left: 50%;
+}
+
+#img3 {
+  position: fixed;
+
+  margin-left: 70%;
+}
+
+
+.randomImage {
+  margin-right: 10px;
+}
+
+
+
+#myForm {
+  min-width: 175px;
+  width: 20%;
+}
+
+#toys1 {
+  min-width: 100px;
+  width: 90%;
+}
+
+
+
+
+
+#myFrame {
+
+}
+
+#collapseMain {
+  min-width: 200px;
+  width: 30%;
+}
+
+.error {
+  color: red;
+}
+
+#hiddenForm {
+  display: none;
+}
+
+
+body {
+  margin-left: 10px;
+}
+
+.content {
+  margin-left: 10px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+.hidden {
+  visibility: hidden;
+}
